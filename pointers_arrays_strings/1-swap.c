@@ -6,7 +6,7 @@
  * @b: input 2
  * Return: integers
  */
-voidswap_int(int *a, int *b)
+void swap_int(int *a, int *b)
 {
 	int n;
 
