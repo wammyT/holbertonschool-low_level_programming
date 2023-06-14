@@ -3,6 +3,7 @@
 /**
  * print_diagonal - draws diagonal line on the terminal
  * @n: number of times the character \ should be printed
+ * Return: a diagonal
  */
 
 void print_diagonal(int n)
@@ -19,7 +20,7 @@ void print_diagonal(int n)
 			for (j = 0; j < n; j++)
 			{
 					if (j == i)
-						_putchar('\\');
+						_putchar(' ');
 					else if (j < i)
 						_putchar(' ');
 		}
