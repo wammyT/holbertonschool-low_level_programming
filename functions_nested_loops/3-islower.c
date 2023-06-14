@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 /**
  * _islower - checks if a character is lower case if yes return to 1.
  * otherwise return to 0  just like islower function is ctype.h
