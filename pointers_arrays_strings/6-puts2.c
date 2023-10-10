@@ -2,11 +2,11 @@
 
 /**
  *
- * puts2 - prints one character from a string
+ * puts2 - prints one character out of two of a string
  * followed by a new line
- * @str: string to print the chars from
+ * @str: input string
  */
-void puts2(char *str)
+void puts2(char str)
 {
 	int len, i;
 
