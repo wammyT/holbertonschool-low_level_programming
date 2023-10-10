@@ -5,11 +5,9 @@
  * @a: pointer to the first value
  * @b: pointer to the second value
  */
-void swap_in(int *a, int *b)
+void swap_int(int *a, int *b)
 {
-	int c;
-
-	c = *a;
+	int c = *a;
 	*a = *b;
 	*b = c;
 }
