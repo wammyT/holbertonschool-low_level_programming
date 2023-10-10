@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio>
 
 /**
  * _strncpy - concatenates two strings.
