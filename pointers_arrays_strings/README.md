@@ -1,1 +1,1 @@
-assignment over more pointers, arrays, and strings. 
+pointers arrrays and string x3 
