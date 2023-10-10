@@ -7,7 +7,7 @@
  * @size: the size of the array
  * Return: Nothing
  */
-void prin-diagsums(int *a, int size)
+void print-diagsums(int *a, int size)
 {
 	int sum0, sum1;
 	in row, col;
